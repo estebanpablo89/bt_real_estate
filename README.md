@@ -13,5 +13,3 @@ pipenv shell
 pipenv install
 python manage.py runserver
 ```
-
-You will also need a `.env` file in the `/btre` directory. This should contain an `EMAIL` field, and a `PASSWORD` field.
